@@ -1,3 +1,7 @@
+# Relógio Analógico
+
+![relogio](https://github.com/fernandavcampos/relogioanalogico/assets/63258830/42e82441-6746-4f8c-9b3e-8a0a6fe25533)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
